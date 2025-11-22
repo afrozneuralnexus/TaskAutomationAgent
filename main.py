@@ -478,4 +478,4 @@ if st.session_state.workflows:
 
 # Footer
 st.divider()
-st.caption("🤖 Powered by Google Gemini AI | Built with Streamlit")
+#st.caption("🤖 Powered by Google Gemini AI | Built with Streamlit")
