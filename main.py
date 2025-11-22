@@ -120,7 +120,7 @@ class AutomationAgent:
         - 3-4 bullet points
         - Speaker notes (1-2 sentences)
         
-        Format as a structured outline with clear slide numbers."""
+        Format as a structured outline with clear slide numbers.
         
         response = self.model.generate_content(prompt)
         return response.text
