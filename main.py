@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import random
 import io
 
+
 # Page config
 st.set_page_config(
     page_title="Task & Workflow Automation Agent",
